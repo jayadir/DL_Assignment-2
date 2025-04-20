@@ -1,5 +1,5 @@
 # DL_Assignment-2
-# README for Machine Learning Projects
+
 
 ## 1. Latin to Devanagari Transliteration Model
 
@@ -7,10 +7,9 @@
 This project implements a sequence-to-sequence (seq2seq) model to transliterate Latin script words into Devanagari script (Hindi). The model is trained on the Dakshina dataset, which contains parallel Latin-Devanagari word pairs.
 
 ### Key Features
-- Implements both SimpleRNN and LSTM-based seq2seq models
+- Implements both SimpleRNN, LSTM-based, GRU seq2seq models
 - Character-level translation approach
 - Evaluation metrics for model comparison
-- Sample translation demonstration
 
 ### Dataset
 The model uses the Dakshina dataset (`hi.translit.sampled.*.tsv` files) containing:
