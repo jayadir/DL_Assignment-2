@@ -38,7 +38,12 @@ The model uses the Dakshina dataset (`hi.translit.sampled.*.tsv` files) containi
    - Model training
    - Evaluation
    - Sample translations
-
+### Parameters and Computations
+1)Total computations done by the network: 20416000
+2)Total params: 212,098 (828.51 KB)
+ Trainable params: 212,098 (828.51 KB)
+ Non-trainable params: 0 (0.00 B)
+ 
 ## 2. GPT-2 Fine-Tuning for Poetry Generation
 
 ### Overview
